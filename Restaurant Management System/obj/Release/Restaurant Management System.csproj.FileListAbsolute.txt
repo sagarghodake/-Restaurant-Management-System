@@ -1,0 +1,27 @@
+G:\new pd\Restaurant Management System\Restaurant Management System\bin\Release\Restauran Management System.exe.config
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\ResolveAssemblyReference.cache
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmAbout.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmCurrency.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmHotelInfo.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmMainMenu.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmCategory.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmCategoryRecord.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmChangePassword.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmCustomers.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmProductsRecord.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmCustomersRecord.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmCustomersReport.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmInvoiceReport.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmLogin.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmLoginDetails.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmProduct.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmRecoveryPassword.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmRegisteredUsersDetails.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmSales.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmSalesRecord.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmSalesReport.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmSplash.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.frmRegistration.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\Restaurant_Management_System.Properties.Resources.resources
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\GenerateResource.read.1.tlog
+G:\new pd\Restaurant Management System\Restaurant Management System\obj\Release\GenerateResource.write.1.tlog
